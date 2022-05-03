@@ -20,6 +20,6 @@ This analysis was requested to determine how many employees are retiring from ea
 * How many roles will need to be filled as the "silver tsunami" begins to make an impact? 72,458 roles will ultimately need to be filled.
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes and no. While 1500 eligible employees is a good start to train a new generation, ultimately we may need to expand qualifications to meet training and capacity requirements.
 
-### Suggested queries 
+### Suggested Queries 
 * Expand birthdate criterea to people verging on retirement eligibility. This way we are able to meet training demand for the volume of employees necessary to hire. 
 * Focus query on most tenured per senior title in order to consult staff with the greatest wealth of knowledge. Perhaps this can be leveraged to create an expansive training program that will help with hiring volumes.
