@@ -30,5 +30,3 @@ INTO retiring_titles
 FROM unique_titles as u
 GROUP BY u.title
 ORDER BY COUNT(title) DESC;
-
-SELECT * FROM retiring_titles
